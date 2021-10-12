@@ -1,0 +1,1013 @@
+fileFormatVersion: 2
+guid: 689f13575a0731b489cc36d8e332c377
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: J_01
+    100002: J_02
+    100004: J_03
+    100006: J_04
+    100008: J_05
+    100010: J_06
+    100012: J_07
+    100014: J_08
+    100016: J_09
+    100018: J_atama
+    100020: J_center
+    100022: J_hara
+    100024: J_kubi
+    100026: J_Lashi
+    100028: J_Lhiji
+    100030: J_Lhimo1
+    100032: J_Lhimo2
+    100034: J_Lhimo3
+    100036: J_Lhiza
+    100038: J_Lkata
+    100040: J_Lmomo
+    100042: J_Loyayubi
+    100044: J_Lte
+    100046: J_Ltuma
+    100048: J_Lude
+    100050: J_Lyubi
+    100052: J_mune
+    100054: J_Rashi
+    100056: J_Rhiji
+    100058: J_Rhimo1
+    100060: J_Rhimo2
+    100062: J_Rhimo3
+    100064: J_Rhiza
+    100066: J_Rkata
+    100068: J_Rmomo
+    100070: J_root_004
+    100072: J_Royayubi
+    100074: J_Rte
+    100076: J_Rtuma
+    100078: J_Rude
+    100080: J_Ryubi
+    100082: loc_001
+    100084: loc_010
+    100086: loc_011
+    100088: loc_020
+    100090: loc_021
+    100092: md004_asi_L
+    100094: md004_asi_R
+    100096: md004_atama
+    100098: md004_dou
+    100100: md004_himo
+    100102: md004_kami_L
+    100104: md004_kami_R
+    100106: md004_kata
+    100108: md004_kosi
+    100110: md004_kubi
+    100112: md004_kutu_L
+    100114: md004_kutu_R
+    100116: md004_te_L
+    100118: md004_te_R
+    100120: md004_ude_L
+    100122: md004_ude_R
+    100124: mesh0
+    100126: mesh1
+    100128: mesh10
+    100130: mesh11
+    100132: mesh12
+    100134: mesh13
+    100136: mesh14
+    100138: mesh15
+    100140: mesh16
+    100142: mesh17
+    100144: mesh2
+    100146: mesh3
+    100148: mesh4
+    100150: mesh5
+    100152: mesh6
+    100154: mesh7
+    100156: mesh8
+    100158: mesh9
+    100160: //RootNode
+    100162: Null
+    100164: Null.10
+    100166: Null.11
+    100168: Null.12
+    100170: Null.13
+    100172: Null.14
+    100174: Null.15
+    100176: Null.16
+    100178: Null.17
+    100180: Null.18
+    100182: Null.2
+    100184: Null.3
+    100186: Null.4
+    100188: Null.5
+    100190: Null.6
+    100192: Null.7
+    100194: Null.8
+    100196: Null.9
+    400000: J_01
+    400002: J_02
+    400004: J_03
+    400006: J_04
+    400008: J_05
+    400010: J_06
+    400012: J_07
+    400014: J_08
+    400016: J_09
+    400018: J_atama
+    400020: J_center
+    400022: J_hara
+    400024: J_kubi
+    400026: J_Lashi
+    400028: J_Lhiji
+    400030: J_Lhimo1
+    400032: J_Lhimo2
+    400034: J_Lhimo3
+    400036: J_Lhiza
+    400038: J_Lkata
+    400040: J_Lmomo
+    400042: J_Loyayubi
+    400044: J_Lte
+    400046: J_Ltuma
+    400048: J_Lude
+    400050: J_Lyubi
+    400052: J_mune
+    400054: J_Rashi
+    400056: J_Rhiji
+    400058: J_Rhimo1
+    400060: J_Rhimo2
+    400062: J_Rhimo3
+    400064: J_Rhiza
+    400066: J_Rkata
+    400068: J_Rmomo
+    400070: J_root_004
+    400072: J_Royayubi
+    400074: J_Rte
+    400076: J_Rtuma
+    400078: J_Rude
+    400080: J_Ryubi
+    400082: loc_001
+    400084: loc_010
+    400086: loc_011
+    400088: loc_020
+    400090: loc_021
+    400092: md004_asi_L
+    400094: md004_asi_R
+    400096: md004_atama
+    400098: md004_dou
+    400100: md004_himo
+    400102: md004_kami_L
+    400104: md004_kami_R
+    400106: md004_kata
+    400108: md004_kosi
+    400110: md004_kubi
+    400112: md004_kutu_L
+    400114: md004_kutu_R
+    400116: md004_te_L
+    400118: md004_te_R
+    400120: md004_ude_L
+    400122: md004_ude_R
+    400124: mesh0
+    400126: mesh1
+    400128: mesh10
+    400130: mesh11
+    400132: mesh12
+    400134: mesh13
+    400136: mesh14
+    400138: mesh15
+    400140: mesh16
+    400142: mesh17
+    400144: mesh2
+    400146: mesh3
+    400148: mesh4
+    400150: mesh5
+    400152: mesh6
+    400154: mesh7
+    400156: mesh8
+    400158: mesh9
+    400160: //RootNode
+    400162: Null
+    400164: Null.10
+    400166: Null.11
+    400168: Null.12
+    400170: Null.13
+    400172: Null.14
+    400174: Null.15
+    400176: Null.16
+    400178: Null.17
+    400180: Null.18
+    400182: Null.2
+    400184: Null.3
+    400186: Null.4
+    400188: Null.5
+    400190: Null.6
+    400192: Null.7
+    400194: Null.8
+    400196: Null.9
+    2100000: X__DesignDataDigimon_Model_chara_ch004_mimi_mimi_body_tga
+    2100002: X__DesignDataDigimon_Model_chara_ch004_mimi_mimi_kao_all_tga
+    4300000: mesh17
+    4300002: mesh16
+    4300004: mesh15
+    4300006: mesh14
+    4300008: mesh13
+    4300010: mesh12
+    4300012: mesh11
+    4300014: mesh10
+    4300016: mesh9
+    4300018: mesh8
+    4300020: mesh7
+    4300022: mesh6
+    4300024: mesh5
+    4300026: mesh4
+    4300028: mesh3
+    4300030: mesh2
+    4300032: mesh1
+    4300034: mesh0
+    9500000: //RootNode
+    13700000: mesh0
+    13700002: mesh1
+    13700004: mesh10
+    13700006: mesh11
+    13700008: mesh12
+    13700010: mesh13
+    13700012: mesh14
+    13700014: mesh15
+    13700016: mesh16
+    13700018: mesh17
+    13700020: mesh2
+    13700022: mesh3
+    13700024: mesh4
+    13700026: mesh5
+    13700028: mesh6
+    13700030: mesh7
+    13700032: mesh8
+    13700034: mesh9
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X__DesignDataDigimon_Model_chara_ch004_mimi_mimi_body_tga
+    second: {fileID: 2100000, guid: 24ea47b34515e644ebbd54ab25e991e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X__DesignDataDigimon_Model_chara_ch004_mimi_mimi_kao_all_tga
+    second: {fileID: 2100000, guid: 57302a4c01bf7a84f8a546719e0f5876, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: J_center
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lmomo
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rmomo
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lhiza
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rhiza
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lashi
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rashi
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_hara
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_mune
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_kubi
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_atama
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lkata
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rkata
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lude
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rude
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lhiji
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rhiji
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lte
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rte
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Ltuma
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rtuma
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Lhimo2
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: J_Rhimo2
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Mimi(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh0
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.18
+      parentName: mesh0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh1
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.17
+      parentName: mesh1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh2
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.16
+      parentName: mesh2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh3
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.15
+      parentName: mesh3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh4
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.14
+      parentName: mesh4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh5
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.13
+      parentName: mesh5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh6
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.12
+      parentName: mesh6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh7
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.11
+      parentName: mesh7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh8
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.10
+      parentName: mesh8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh9
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.9
+      parentName: mesh9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh10
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.8
+      parentName: mesh10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh11
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.7
+      parentName: mesh11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh12
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.6
+      parentName: mesh12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh13
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.5
+      parentName: mesh13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh14
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.4
+      parentName: mesh14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh15
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.3
+      parentName: mesh15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh16
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null.2
+      parentName: mesh16
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh17
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Null
+      parentName: mesh17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_root_004
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_center
+      parentName: J_root_004
+      position: {x: -0, y: 0.78630203, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rmomo
+      parentName: J_center
+      position: {x: 0.070359, y: -0.150032, z: -0.006858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rhiza
+      parentName: J_Rmomo
+      position: {x: -0, y: -0.230662, z: -0.007163}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rashi
+      parentName: J_Rhiza
+      position: {x: -0, y: -0.28568798, z: -0.024156999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rtuma
+      parentName: J_Rashi
+      position: {x: -0, y: -0.104384, z: 0.114694}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_09
+      parentName: J_Rtuma
+      position: {x: -0, y: 0, z: 0.10567299}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: loc_011
+      parentName: J_Rashi
+      position: {x: -0, y: -0.11991999, z: 0.038179}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lmomo
+      parentName: J_center
+      position: {x: -0.070359, y: -0.150032, z: -0.006858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lhiza
+      parentName: J_Lmomo
+      position: {x: -0, y: -0.230662, z: -0.007163}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lashi
+      parentName: J_Lhiza
+      position: {x: -0, y: -0.28568798, z: -0.024156999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Ltuma
+      parentName: J_Lashi
+      position: {x: -0, y: -0.104384, z: 0.114694}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_08
+      parentName: J_Ltuma
+      position: {x: -0, y: 0, z: 0.10567299}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: loc_010
+      parentName: J_Lashi
+      position: {x: -0, y: -0.11991999, z: 0.038179}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_hara
+      parentName: J_center
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_mune
+      parentName: J_hara
+      position: {x: -0, y: 0.10488, z: -0.0062209996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_kubi
+      parentName: J_mune
+      position: {x: -0, y: 0.133322, z: -0.036441}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_atama
+      parentName: J_kubi
+      position: {x: -0, y: 0.057772998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_01
+      parentName: J_atama
+      position: {x: -0, y: 0.218994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rhimo1
+      parentName: J_atama
+      position: {x: 0.097027995, y: 0.14959699, z: 0.070148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rhimo2
+      parentName: J_Rhimo1
+      position: {x: -0, y: -0.098647, z: -0.013905999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rhimo3
+      parentName: J_Rhimo2
+      position: {x: -0, y: -0.111241, z: 0.0053399997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_02
+      parentName: J_Rhimo3
+      position: {x: -0, y: -0.077019, z: 0.059536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lhimo1
+      parentName: J_atama
+      position: {x: -0.097027995, y: 0.149593, z: 0.070148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lhimo2
+      parentName: J_Lhimo1
+      position: {x: -0, y: -0.09864, z: -0.013905999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lhimo3
+      parentName: J_Lhimo2
+      position: {x: -0, y: -0.11123999, z: 0.0053399997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_03
+      parentName: J_Lhimo3
+      position: {x: -0, y: -0.077023, z: 0.059536}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: loc_020
+      parentName: J_atama
+      position: {x: -0, y: 0.451093, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rkata
+      parentName: J_mune
+      position: {x: 0.017663999, y: 0.097365, z: -0.019436998}
+      rotation: {x: -0, y: -0, z: 0.096090056, w: 0.99537265}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rude
+      parentName: J_Rkata
+      position: {x: 0.073818, y: -0.041882, z: 0}
+      rotation: {x: -0.0012530548, y: -0.0064295568, z: -0.05765486, w: 0.9983151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rhiji
+      parentName: J_Rude
+      position: {x: 0.164491, y: 0, z: -0.0035749997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Rte
+      parentName: J_Rhiji
+      position: {x: 0.14658199, y: 0, z: 0.0035749997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Ryubi
+      parentName: J_Rte
+      position: {x: 0.101731, y: -0.0000050000003, z: -0.0015109999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_06
+      parentName: J_Ryubi
+      position: {x: 0.031624, y: -0.013616, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Royayubi
+      parentName: J_Rte
+      position: {x: 0.031409, y: -0.01102, z: 0.04142}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_07
+      parentName: J_Royayubi
+      position: {x: 0.026088, y: -0.023312999, z: 0.023734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lkata
+      parentName: J_mune
+      position: {x: -0.017663999, y: 0.097366, z: -0.019436998}
+      rotation: {x: -0, y: -0, z: -0.09609036, w: 0.99537265}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lude
+      parentName: J_Lkata
+      position: {x: -0.073818, y: -0.041882, z: 0}
+      rotation: {x: -0.0012530558, y: 0.0064295405, z: 0.057655375, w: 0.9983151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lhiji
+      parentName: J_Lude
+      position: {x: -0.164492, y: 0, z: -0.0035749997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lte
+      parentName: J_Lhiji
+      position: {x: -0.146581, y: 0, z: 0.0035749997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Lyubi
+      parentName: J_Lte
+      position: {x: -0.10173199, y: -0.000006, z: -0.0015109999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_04
+      parentName: J_Lyubi
+      position: {x: -0.031624, y: -0.013616, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_Loyayubi
+      parentName: J_Lte
+      position: {x: -0.03141, y: -0.011021, z: 0.04142}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: J_05
+      parentName: J_Loyayubi
+      position: {x: -0.026089, y: -0.023314, z: 0.023734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: loc_021
+      parentName: J_mune
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: loc_001
+      parentName: J_root_004
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_himo
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_atama
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kami_L
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kami_R
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kubi
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kata
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_ude_L
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_ude_R
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_te_R
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_te_L
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_asi_L
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_asi_R
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kutu_L
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kutu_R
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_dou
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: md004_kosi
+      parentName: Mimi(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
